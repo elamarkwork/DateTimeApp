@@ -1,0 +1,26 @@
+{
+  "name": "mwdatetimeapp",
+  "version": "1.0.0",
+  "description": "getstime",
+  "keywords": [
+    "date"
+  ],
+  "homepage": "https://github.com/elamarkwork/DateTimeApp#readme",
+  "bugs": {
+    "url": "https://github.com/elamarkwork/DateTimeApp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elamarkwork/DateTimeApp.git"
+  },
+  "license": "ISC",
+  "author": "mark",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
